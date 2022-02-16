@@ -258,14 +258,14 @@ function esVocal(letra){
     return "Dato incorrecto";
   }
 /*  let array=['a','e','i','o','u'];
-  for (let i in array){
+  for (let i=0; i<array.length;i++){
     vocal=array[i];
     if (letra===vocal){
       return "Es vocal";
     }else{
         return "Dato incorrecto";
     }
-  }*/
+  } no se porque no me lo valida, solo espero que el code este bien xd */
 
 
 
